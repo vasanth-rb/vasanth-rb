@@ -5,7 +5,7 @@
 
 ### What I'm working on 👨‍💻
 
-📦 Currently building a headless-first file uploader for React — [react-mediadrop](https://github.com/autorender/react-mediadrop)
+📦 Currently building a headless-first file uploader for React — [react-mediadrop](https://www.mediadrop.dev/)
 
 ### Find me elsewhere 🌎
 
